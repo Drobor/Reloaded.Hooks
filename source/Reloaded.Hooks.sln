@@ -19,6 +19,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Trimming", "Trimming", "{35
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reloaded.Hooks.Trim.Dummy", "Trimming\Reloaded.Hooks.Trim.Dummy\Reloaded.Hooks.Trim.Dummy.csproj", "{6BEF382C-178D-463D-8EA8-57D3D2E12E5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloseHandleTest", "CloseHandleTest\CloseHandleTest.csproj", "{0487D871-1605-449C-9CE7-38AC6F3B242C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{6BEF382C-178D-463D-8EA8-57D3D2E12E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BEF382C-178D-463D-8EA8-57D3D2E12E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BEF382C-178D-463D-8EA8-57D3D2E12E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0487D871-1605-449C-9CE7-38AC6F3B242C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0487D871-1605-449C-9CE7-38AC6F3B242C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0487D871-1605-449C-9CE7-38AC6F3B242C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0487D871-1605-449C-9CE7-38AC6F3B242C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using System.Diagnostics.CodeAnalysis;
 using Reloaded.Hooks.Definitions;
 using Reloaded.Hooks.Definitions.Enums;
